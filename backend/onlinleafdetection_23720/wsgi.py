@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'onlinleafdetection_23720.settings')
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "onlinleafdetection_23720.settings")
 
 application = get_wsgi_application()
